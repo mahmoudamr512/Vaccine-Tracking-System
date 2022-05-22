@@ -1,0 +1,10 @@
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\Vaccine Tracking System GUI.vcxproj.AssemblyReference.cache
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\Vaccine Tracking System GUI.vcxproj.SuggestedBindingRedirects.cache
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.AdminPanel.resources
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.Login.resources
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.Signup.resources
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.UserPanel.resources
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.ViewStatistics.resources
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.ViewWaitingList.resources
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\Vaccine Tracking System GUI.vcxproj.GenerateResource.cache
+D:\Vaccine Tracking System GUI\Vaccine Tracking System GUI\x64\Debug\VaccineTrackingSystemGUI.ViewAllUsers.resources
